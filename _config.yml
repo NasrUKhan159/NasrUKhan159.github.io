@@ -1,5 +1,5 @@
 title: Nasr U Khan's Data Science Portfolio # your name (or website title) here
-logo: "logo.jpg" # your photo (or logo) here
+logo: "/images/logo.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a Data Scientist at Lloyds Banking Group, and am very passionate about topics in mathematics, statistics and data science.  
   <br><br>
