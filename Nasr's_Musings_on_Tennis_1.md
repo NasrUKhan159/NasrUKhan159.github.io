@@ -2068,7 +2068,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_24_0.png)
     
 
 
@@ -2084,7 +2084,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_25_0.png)
     
 
 
@@ -2100,7 +2100,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_26_0.png)
     
 
 
@@ -2116,7 +2116,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_27_0.png)
     
 
 
@@ -2150,7 +2150,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_31_0.png)
     
 
 
@@ -2166,7 +2166,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_32_0.png)
     
 
 
@@ -2182,7 +2182,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_33_0.png)
     
 
 
@@ -2198,7 +2198,7 @@ plt.show()
 
 
     
-![png](output_34_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_34_0.png)
     
 
 
@@ -2257,7 +2257,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_40_0.png)
     
 
 
@@ -2315,7 +2315,7 @@ plt.show()
 
 
     
-![png](output_46_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_46_0.png)
     
 
 
@@ -2368,7 +2368,7 @@ plt.show()
 
 
     
-![png](output_51_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_51_0.png)
     
 
 
@@ -2421,7 +2421,7 @@ plt.show()
 
 
     
-![png](output_56_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_56_0.png)
     
 
 
@@ -2480,7 +2480,7 @@ plt.show()
 
 
     
-![png](output_63_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_63_0.png)
     
 
 
@@ -2515,7 +2515,7 @@ plt.show()
 
 
     
-![png](output_65_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_65_0.png)
     
 
 
@@ -2554,7 +2554,7 @@ plt.show()
 
 
     
-![png](output_67_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_67_0.png)
     
 
 
@@ -2591,7 +2591,7 @@ plt.show()
 
 
     
-![png](output_69_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_69_0.png)
     
 
 
@@ -2642,7 +2642,7 @@ plt.show()
 
 
     
-![png](output_72_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_72_0.png)
     
 
 
@@ -2668,7 +2668,7 @@ plt.show()
 
 
     
-![png](output_74_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_74_0.png)
     
 
 
@@ -2705,7 +2705,7 @@ plt.show()
 
 
     
-![png](output_76_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_76_0.png)
     
 
 
@@ -2757,7 +2757,7 @@ plt.show()
 
 
     
-![png](output_80_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_80_0.png)
     
 
 
@@ -2779,7 +2779,7 @@ plt.show()
 
 
     
-![png](output_81_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_81_0.png)
     
 
 
@@ -2820,7 +2820,7 @@ plt.show()
 
 
     
-![png](output_83_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_83_0.png)
     
 
 
@@ -2872,7 +2872,7 @@ plt.show()
 
 
     
-![png](output_87_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_87_0.png)
     
 
 
@@ -2894,7 +2894,7 @@ plt.show()
 
 
     
-![png](output_88_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_88_0.png)
     
 
 
@@ -2935,7 +2935,7 @@ plt.show()
 
 
     
-![png](output_90_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_90_0.png)
     
 
 
@@ -2989,7 +2989,7 @@ plt.show()
 
 
     
-![png](output_94_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_94_0.png)
     
 
 
@@ -3011,7 +3011,7 @@ plt.show()
 
 
     
-![png](output_95_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_95_0.png)
     
 
 
@@ -3052,7 +3052,7 @@ plt.show()
 
 
     
-![png](output_97_0.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_97_0.png)
     
 
 
@@ -3114,7 +3114,7 @@ plt.ylabel("WRank")
 
 
     
-![png](output_102_1.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_102_1.png)
     
 
 
@@ -3154,7 +3154,7 @@ plt.ylabel("WRank")
 
 
     
-![png](output_105_1.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_105_1.png)
     
 
 
@@ -3196,7 +3196,7 @@ silhouette_score(frenchopen_2021_atp_WRankLRank_array, assignment_frenchopen2021
 
 
     
-![png](output_108_1.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_108_1.png)
     
 
 
@@ -3227,7 +3227,7 @@ silhouette_score(wimbledon_2021_atp_WRankLRank_array, assignment_wimbledon2021_a
 
 
     
-![png](output_111_1.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_111_1.png)
     
 
 
@@ -3256,7 +3256,7 @@ silhouette_score(wimbledon_2021_atp_WRankLRank_array, assignment_wimbledon2021_a
 
 
     
-![png](output_113_1.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_113_1.png)
     
 
 
@@ -3287,7 +3287,7 @@ silhouette_score(usopen_2021_atp_WRankLRank_array, assignment_usopen2021_atp)
 
 
     
-![png](output_116_1.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_116_1.png)
     
 
 
@@ -3316,7 +3316,7 @@ silhouette_score(usopen_2021_atp_WRankLRank_array, assignment_usopen2021_atp)
 
 
     
-![png](output_118_1.png)
+![png](/Nasr's_Musings_on_Tennis_1/output_118_1.png)
     
 
 
