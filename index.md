@@ -7,7 +7,7 @@
 [Nasr's Musings on Tennis 1: A domain-specific application of unsupervised learning algorithms to tennis statistics](/Nasr's_Musings_on_Tennis_1.md)
 
 ---
-[Nasr's Musings on Tennis 2: An overview of supervised machine learning problems for the classification problem of predicting a tennis match winner having lower or higher rank than the loser](/pdf/sample_presentation.pdf)
+[Nasr's Musings on Tennis 2: An overview of supervised machine learning problems for the classification problem of predicting a tennis match winner having lower or higher rank than the loser](/Nasr's_Musings_on_Tennis_2.md)
 
 ---
 
