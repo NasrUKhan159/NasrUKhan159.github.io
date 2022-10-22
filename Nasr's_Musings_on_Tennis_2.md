@@ -3915,7 +3915,7 @@ plt.yticks(())
 
 
     
-![png](output_35_2.png)
+![png](/Nasr's_Musings_on_Tennis_2/output_35_2.png)
     
 
 
@@ -3971,7 +3971,7 @@ plt.yticks(())
 
 
     
-![png](output_40_1.png)
+![png](/Nasr's_Musings_on_Tennis_2/output_40_1.png)
     
 
 
@@ -3998,7 +3998,7 @@ plt.yticks(())
 
 
     
-![png](output_42_1.png)
+![png](/Nasr's_Musings_on_Tennis_2/output_42_1.png)
     
 
 
@@ -4025,7 +4025,7 @@ plt.yticks(())
 
 
     
-![png](output_44_1.png)
+![png](/Nasr's_Musings_on_Tennis_2/output_44_1.png)
     
 
 
@@ -4083,7 +4083,7 @@ print("Score with only selected features: {:.3f}".format(lr.score(X_test_selecte
 
 
     
-![png](output_50_1.png)
+![png](/Nasr's_Musings_on_Tennis_2/output_50_1.png)
     
 
 
