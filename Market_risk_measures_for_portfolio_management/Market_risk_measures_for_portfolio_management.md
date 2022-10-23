@@ -951,4 +951,4 @@ Nonetheless, scenario measures is a future extension worth looking into.
 7. https://www.kaggle.com/code/liamhealy/copulas-in-python
 8. https://www.cfainstitute.org/en/membership/professional-development/refresher-readings/measuring-managing-market-risk
 9. https://www.investopedia.com/ask/answers/041415/what-are-some-common-measures-risk-used-risk-management.asp
-10. https://www.investopedia.com/terms/m/marginal-var.asp#:~:text=What%20Is%20Marginal%20VaR%3F,positions%20from%20an%20investment%20portfolio.
+10. https://www.investopedia.com/terms/m/marginal-var.asp.
