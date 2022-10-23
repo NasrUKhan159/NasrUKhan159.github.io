@@ -851,7 +851,6 @@ Incremental VaR is thus a more precise measurement, as opposed to marginal value
 
 (References: https://riskprep.com/tutorials/var-disaggregation-marginal-and-component-var/ ; https://www.northstarrisk.com/incrementalvalueatrisk) The mathematical formula for the incremental VaR is:
 
-```latex
 $(iVaR)_{0.95,i} = \frac{d(VaR_{0.95, P})}{dw_{i}}w_{i}$
 
 This can be expressed using a trivial derivation in the following manner:
@@ -879,7 +878,6 @@ $(iVaR)_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}}
 $\boxed{(iVaR)_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}V_{i} - \sigma_{P}V_{P}\}}$
 
 Here, $\sigma_{iP} = (\mathbf{w}^{T}\Sigma)_{i}$. Let's implement the boxed equation in Python:
-```
 
 
 ```python
