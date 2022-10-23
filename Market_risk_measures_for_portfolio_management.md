@@ -870,11 +870,11 @@ Incremental VaR is thus a more precise measurement, as opposed to marginal value
 
 (References: https://riskprep.com/tutorials/var-disaggregation-marginal-and-component-var/ ; https://www.northstarrisk.com/incrementalvalueatrisk) The mathematical formula for the incremental VaR is:
 
-$(iVaR)_{0.95,i} = \frac{d(VaR_{0.95, P})}{dw_{i}}w_{i}$
+$iVaR_{0.95,i} = \frac{d(VaR_{0.95, P})}{dw_{i}}w_{i}$
 
 This can be expressed using a trivial derivation in the following manner:
 
-$(iVaR)_{0.95,i} = \Phi^{-1}(0.95)V_{P}w_{i}$
+$iVaR_{0.95,i} = \Phi^{-1}(0.95)V_{P}w_{i}$
 
 How do we get this formula? Let's walk through the derivation:
 
