@@ -944,7 +944,7 @@ Nonetheless, scenario measures is a future extension worth looking into.
 
 1. Lecture 4 Notes, STAT0011: Decision and Risk (University College London)
 2. https://www.interviewqs.com/blog/value-at-risk
-3. https://en.wikipedia.org/wiki/Dot_product#:~:targetText=In%20mathematics%2C%20the%20dot%20product,and%20returns%20a%20single%20number.
+3. https://en.wikipedia.org/wiki/Dot_product.
 4. https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
 5. https://quantpy.com.au/risk-management/value-at-risk-var-and-conditional-var-cvar/
 6. https://www.quantrocket.com/codeload/quant-finance-lectures/quant_finance_lectures/Lecture40-VaR-and-CVaR.ipynb.html
