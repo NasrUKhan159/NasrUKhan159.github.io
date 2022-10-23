@@ -593,7 +593,7 @@ VaR_historical(1, 1000000, returns, 5)
 
 
 
-Here we are saying with 95% confidence that our portfolio of $1,000,000, where equivalent amounts have been invested in Amazon, Google, Microsoft and Apple, losses will not exceed $23,556 over a one day period. We can see that the historical VaR figure is similar to the parametric VaR figure.
+Here we are saying with 95% confidence that our portfolio of \$1,000,000, where equivalent amounts have been invested in Amazon, Google, Microsoft and Apple, losses will not exceed \$23,556 over a one day period. We can see that the historical VaR figure is similar to the parametric VaR figure.
 
 3. Monte Carlo simulation:
 
