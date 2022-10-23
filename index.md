@@ -19,7 +19,7 @@
 
 ### Data Science and ML in Economics, Finance and Business
 
-[Analysis of market risk measures for a portfolio of financial assets in Python](/sample_page)
+[Analysis of market risk measures for a portfolio of financial assets in Python](/Market_risk_measures_for_portfolio_management.md)
 
 ---
 
