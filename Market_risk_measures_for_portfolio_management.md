@@ -1,3 +1,22 @@
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 # Analysis of market risk measures for a portfolio of financial assets in Python
 
 Risk management is the analysis of an investment's returns compared to its risk with the expectation that a greater degree of risk is supposed to be compensated by a higher expected return. Risk—or the probability of a loss—can be measured using statistical methods that are historical predictors of investment risk and volatility. Some common measurements of risk include standard deviation, Sharpe ratio, beta, value at risk (VaR), conditional value at risk (CVaR), etc.
