@@ -612,11 +612,11 @@ VaR_historical(1, 1000000, returns, 5)
 
 
 
-Here we are saying with 95% confidence that our portfolio of \$1,000,000, where equivalent amounts have been invested in Amazon, Google, Microsoft and Apple, losses will not exceed \$23,556 over a one day period. We can see that the historical VaR figure is similar to the parametric VaR figure.
+Here we are saying with 95% confidence that our portfolio of 1M USD where equivalent amounts have been invested in Amazon, Google, Microsoft and Apple, losses will not exceed 23,556 USD over a one day period. We can see that the historical VaR figure is similar to the parametric VaR figure.
 
 3. Monte Carlo simulation:
 
-For this method, we will set the number of simulations to be 20, and the number of time periods ahead to forecast, to 100. The initial value of the portfolio continues to be set at \$1,000,000. By construction of the simulation draws, the matrix $\mathbf{Z}$ will have standard normal entries so we would expect the Monte Carlo VaR estimate to be different in each run.
+For this method, we will set the number of simulations to be 20, and the number of time periods ahead to forecast, to 100. The initial value of the portfolio continues to be set at 1M USD. By construction of the simulation draws, the matrix $\mathbf{Z}$ will have standard normal entries so we would expect the Monte Carlo VaR estimate to be different in each run.
 
 
 ```python
@@ -888,13 +888,7 @@ $iVaR_{0.95,i} = \frac{d}{dw_{i}}(\Phi^{-1}(0.95)\sigma_{P}\frac{V_{i}}{w_{i}})w
 
 $iVaR_{i} = \Phi^{-1}(0.95)\{\frac{d\sigma_{P}}{dw_{i}}\frac{V_{i}}{w_{i}} + \frac{d}{dw_{i}}(\frac{V_{i}}{w_{i}})\sigma_{P}\}w_{i}$
 
-The expression on the right hand side can be written as:
-
-$\Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{V_{i}}{{w_{i}}^{2}}\sigma_{P}\}w_{i}$
-
-$= \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{1}{{w_{i}}}\frac{V_{i}}{{w_{i}}}\sigma_{P}\}w_{i}$
-
-$= \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{\sigma_{P}}{{w_{i}}}V_{P}\}w_{i}$
+This gives:
 
 $\boxed{iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}V_{i} - \sigma_{P}V_{P}\}}$
 
