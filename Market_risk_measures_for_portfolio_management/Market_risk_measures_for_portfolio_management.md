@@ -865,17 +865,17 @@ We have that $VaR_{0.95,P}$ is the VaR for the portfolio P evaluated at 95% conf
 
 $VaR_{0.95,P} = \Phi^{-1}(0.95)\sigma_{P}\frac{V_{i}}{w_{i}}$. Plugging this into the fomula for incremental VaR for the $i$-th asset:
 
-$(iVaR)_{0.95,i} = \frac{d}{dw_{i}}(\Phi^{-1}(0.95)\sigma_{P}\frac{V_{i}}{w_{i}})w_{i}$. By the product rule:
+$iVaR_{0.95,i} = \frac{d}{dw_{i}}(\Phi^{-1}(0.95)\sigma_{P}\frac{V_{i}}{w_{i}})w_{i}$. By the product rule:
 
-$(iVaR)_{i} = \Phi^{-1}(0.95)\{\frac{d\sigma_{P}}{dw_{i}}\frac{V_{i}}{w_{i}} + \frac{d}{dw_{i}}(\frac{V_{i}}{w_{i}})\sigma_{P}\}w_{i}$
+$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{d\sigma_{P}}{dw_{i}}\frac{V_{i}}{w_{i}} + \frac{d}{dw_{i}}(\frac{V_{i}}{w_{i}})\sigma_{P}\}w_{i}$
 
-$(iVaR)_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} + (-\frac{V_{i}}{{w_{i}}^{2}})\sigma_{P}\}w_{i}$
+$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} + (-\frac{V_{i}}{{w_{i}}^{2}})\sigma_{P}\}w_{i}$
 
-$(iVaR)_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} + (\frac{-1}{{w_{i}}})(\frac{V_{i}}{{w_{i}}})\sigma_{P}\}w_{i}$
+$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} + (\frac{-1}{{w_{i}}})(\frac{V_{i}}{{w_{i}}})\sigma_{P}\}w_{i}$
 
-$(iVaR)_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - (\frac{\sigma_{P}}{{w_{i}}})V_{P}\}w_{i}$
+$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - (\frac{\sigma_{P}}{{w_{i}}})V_{P}\}w_{i}$
 
-$\boxed{(iVaR)_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}V_{i} - \sigma_{P}V_{P}\}}$
+$\boxed{iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}V_{i} - \sigma_{P}V_{P}\}}$
 
 Here, $\sigma_{iP} = (\mathbf{w}^{T}\Sigma)_{i}$. Let's implement the boxed equation in Python:
 
