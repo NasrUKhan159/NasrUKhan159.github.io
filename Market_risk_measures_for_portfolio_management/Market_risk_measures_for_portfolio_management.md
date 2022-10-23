@@ -886,15 +886,15 @@ $VaR_{0.95,P} = \Phi^{-1}(0.95)\sigma_{P}\frac{V_{i}}{w_{i}}$. Plugging this int
 
 $iVaR_{0.95,i} = \frac{d}{dw_{i}}(\Phi^{-1}(0.95)\sigma_{P}\frac{V_{i}}{w_{i}})w_{i}$. By the product rule:
 
-$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{d\sigma_{P}}{dw_{i}}\frac{V_{i}}{w_{i}} + \frac{d}{dw_{i}}(\frac{V_{i}}{w_{i}})\sigma_{P}\}w_{i}$
+$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{d\sigma_{P}}{dw_{i}}\frac{V_{i}}{w_{i}} + \frac{d}{dw_{i}}(\frac{V_{i}}{w_{i}})\sigma_{P}\}w_{i}
 
-$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{V_{i}}{{w_{i}}^{2}}\sigma_{P}\}w_{i}$
+iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{V_{i}}{{w_{i}}^{2}}\sigma_{P}\}w_{i}
 
-$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{1}{{w_{i}}}\frac{V_{i}}{{w_{i}}}\sigma_{P}\}w_{i}$
+iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{1}{{w_{i}}}\frac{V_{i}}{{w_{i}}}\sigma_{P}\}w_{i}
 
-$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{\sigma_{P}}{{w_{i}}}V_{P}\}w_{i}$
+iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{\sigma_{P}}{{w_{i}}}V_{P}\}w_{i}
 
-$\boxed{iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}V_{i} - \sigma_{P}V_{P}\}}$
+\boxed{iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}V_{i} - \sigma_{P}V_{P}\}}$
 
 Here, $\sigma_{iP} = (\mathbf{w}^{T}\Sigma)_{i}$. Let's implement the boxed equation in Python:
 
