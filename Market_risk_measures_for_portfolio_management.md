@@ -890,7 +890,7 @@ $iVaR_{i} = \Phi^{-1}(0.95)\{\frac{d\sigma_{P}}{dw_{i}}\frac{V_{i}}{w_{i}} + \fr
 
 $iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{V_{i}}{{w_{i}}^{2}}\sigma_{P}\}w_{i}$
 
-$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{1}{{w_{i}}})(\frac{V_{i}}{{w_{i}}}\sigma_{P}\}w_{i}$
+$iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{1}{{w_{i}}}\frac{V_{i}}{{w_{i}}}\sigma_{P}\}w_{i}$
 
 $iVaR_{i} = \Phi^{-1}(0.95)\{\frac{\sigma_{iP}}{\sigma_{P}}\frac{V_{i}}{w_{i}} - \frac{\sigma_{P}}{{w_{i}}}V_{P}\}w_{i}$
 
