@@ -612,11 +612,11 @@ VaR_historical(1, 1000000, returns, 5)
 
 
 
-Here we are saying with 95% confidence that our portfolio of \$1,000,000, where equivalent amounts have been invested in Amazon, Google, Microsoft and Apple, losses will not exceed \$23,556 over a one day period. We can see that the historical VaR figure is similar to the parametric VaR figure.
+Here we are saying with 95% confidence that our portfolio of 1M USD where equivalent amounts have been invested in Amazon, Google, Microsoft and Apple, losses will not exceed 23,556 USD over a one day period. We can see that the historical VaR figure is similar to the parametric VaR figure.
 
 3. Monte Carlo simulation:
 
-For this method, we will set the number of simulations to be 20, and the number of time periods ahead to forecast, to 100. The initial value of the portfolio continues to be set at \$1,000,000. By construction of the simulation draws, the matrix $\mathbf{Z}$ will have standard normal entries so we would expect the Monte Carlo VaR estimate to be different in each run.
+For this method, we will set the number of simulations to be 20, and the number of time periods ahead to forecast, to 100. The initial value of the portfolio continues to be set at 1M USD. By construction of the simulation draws, the matrix $\mathbf{Z}$ will have standard normal entries so we would expect the Monte Carlo VaR estimate to be different in each run.
 
 
 ```python
