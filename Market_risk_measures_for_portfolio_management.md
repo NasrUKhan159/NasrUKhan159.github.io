@@ -378,7 +378,7 @@ nday_var_parametric(np.array([0.25,0.25,0.25,0.25]), ['AAPL', 'AMZN', 'MSFT', 'G
 
 
     
-![png](output_20_1.png)
+![png](/Market_risk_measures_for_portfolio_management/output_20_1.png)
     
 
 
@@ -412,7 +412,7 @@ check_dist_equities(returns, ['AAPL', 'AMZN', 'MSFT', 'GOOG'], 'AAPL')
 
 
     
-![png](output_23_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_23_0.png)
     
 
 
@@ -423,7 +423,7 @@ check_dist_equities(returns, ['AAPL', 'AMZN', 'MSFT', 'GOOG'], 'AMZN')
 
 
     
-![png](output_24_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_24_0.png)
     
 
 
@@ -434,7 +434,7 @@ check_dist_equities(returns, ['AAPL', 'AMZN', 'MSFT', 'GOOG'], 'MSFT')
 
 
     
-![png](output_25_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_25_0.png)
     
 
 
@@ -445,7 +445,7 @@ check_dist_equities(returns, ['AAPL', 'AMZN', 'MSFT', 'GOOG'], 'GOOG')
 
 
     
-![png](output_26_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_26_0.png)
     
 
 
@@ -506,13 +506,13 @@ gen_normal_student_prob_plots('AAPL')
 
 
     
-![png](output_31_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_31_0.png)
     
 
 
 
     
-![png](output_31_1.png)
+![png](/Market_risk_measures_for_portfolio_management/output_31_1.png)
     
 
 
@@ -523,13 +523,13 @@ gen_normal_student_prob_plots('AMZN')
 
 
     
-![png](output_32_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_32_0.png)
     
 
 
 
     
-![png](output_32_1.png)
+![png](/Market_risk_measures_for_portfolio_management/output_32_1.png)
     
 
 
@@ -540,13 +540,13 @@ gen_normal_student_prob_plots('MSFT')
 
 
     
-![png](output_33_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_33_0.png)
     
 
 
 
     
-![png](output_33_1.png)
+![png](/Market_risk_measures_for_portfolio_management/output_33_1.png)
     
 
 
@@ -557,13 +557,13 @@ gen_normal_student_prob_plots('GOOG')
 
 
     
-![png](output_34_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_34_0.png)
     
 
 
 
     
-![png](output_34_1.png)
+![png](/Market_risk_measures_for_portfolio_management/output_34_1.png)
     
 
 
@@ -647,7 +647,7 @@ plt.show()
 
 
     
-![png](output_42_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_42_0.png)
     
 
 
@@ -793,7 +793,7 @@ mc_simulation_mcvar(weights_minusonestock, meanReturns_noaapl, covMatrix_noaapl,
 
 
     
-![png](output_54_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_54_0.png)
     
 
 
@@ -807,7 +807,7 @@ mc_simulation_mcvar(weights_minusonestock, meanReturns_noamzn, covMatrix_noamzn,
 
 
     
-![png](output_55_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_55_0.png)
     
 
 
@@ -821,7 +821,7 @@ mc_simulation_mcvar(weights_minusonestock, meanReturns_nomsft, covMatrix_nomsft,
 
 
     
-![png](output_56_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_56_0.png)
     
 
 
@@ -835,7 +835,7 @@ mc_simulation_mcvar(weights_minusonestock, meanReturns_nogoog, covMatrix_nogoog,
 
 
     
-![png](output_57_0.png)
+![png](/Market_risk_measures_for_portfolio_management/output_57_0.png)
     
 
 
