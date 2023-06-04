@@ -1662,34 +1662,34 @@ This tutorial can be used to explore how changing $(p,q)$ influences the transit
 
 [1]: (Source Paper) Grover A, Leskovec J. node2vec: Scalable feature learning for networks. InProceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining 2016 Aug 13 (pp. 855-864).
 
-- [2]: `https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc`
+[2]: https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
 
-- [3]: https://networkx.org/
+[3]: https://networkx.org/
 
-- [4]: https://towardsdatascience.com/node2vec-explained-db86a319e9ab
+[4]: https://towardsdatascience.com/node2vec-explained-db86a319e9ab
 
-- [5]: https://github.com/eliorc/node2vec
+[5]: https://github.com/eliorc/node2vec
 
-- [6]: https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial/notebook
+[6]: https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial/notebook
 
-- [7]: https://radimrehurek.com/gensim/models/word2vec.html
+[7]: https://radimrehurek.com/gensim/models/word2vec.html
 
-- [8]: M.Girvan and M. E. J. Newman, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002).
+[8]: M.Girvan and M. E. J. Newman, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002).
 
-- [9]: https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html
+[9]: https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html
 
-- [10]: S. Kumar, F. Spezzano, V.S. Subrahmanian, C. Faloutsos. Edge Weight Prediction in Weighted Signed Networks. IEEE International Conference on Data Mining (ICDM), 2016.
+[10]: S. Kumar, F. Spezzano, V.S. Subrahmanian, C. Faloutsos. Edge Weight Prediction in Weighted Signed Networks. IEEE International Conference on Data Mining (ICDM), 2016.
 
-- [11]: S. Kumar, B. Hooi, D. Makhija, M. Kumar, V.S. Subrahmanian, C. Faloutsos. REV2: Fraudulent User Prediction in Rating Platforms. 11th ACM International Conference on Web Searchand Data Mining (WSDM), 2018.
+[11]: S. Kumar, B. Hooi, D. Makhija, M. Kumar, V.S. Subrahmanian, C. Faloutsos. REV2: Fraudulent User Prediction in Rating Platforms. 11th ACM International Conference on Web Searchand Data Mining (WSDM), 2018.
 
-- [12]: https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf
+[12]: https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf
 
-- [13]: https://snap.stanford.edu/class/cs224w-2017/projects/cs224w-38-final.pdf
+[13]: https://snap.stanford.edu/class/cs224w-2017/projects/cs224w-38-final.pdf
 
-- [14]: Khosla M, Setty V, Anand A. A comparative study for unsupervised network representation learning. IEEE Transactions on Knowledge and Data Engineering. 2019 Nov 4;33(5):1807-18.
+[14]: Khosla M, Setty V, Anand A. A comparative study for unsupervised network representation learning. IEEE Transactions on Knowledge and Data Engineering. 2019 Nov 4;33(5):1807-18.
 
-- [15]: https://www.geeksforgeeks.org/node2vec-algorithm/
+[15]: https://www.geeksforgeeks.org/node2vec-algorithm/
 
-- [16]: Dong Y, Chawla NV, Swami A. metapath2vec: Scalable representation learning for heterogeneous networks. InProceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining 2017 Aug 4 (pp. 135-144).
+[16]: Dong Y, Chawla NV, Swami A. metapath2vec: Scalable representation learning for heterogeneous networks. InProceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining 2017 Aug 4 (pp. 135-144).
 
-- [17]: Hacker C. k-simplex2vec: a simplicial extension of node2vec. arXiv preprint arXiv:2010.05636. 2020 Oct 12.
+[17]: Hacker C. k-simplex2vec: a simplicial extension of node2vec. arXiv preprint arXiv:2010.05636. 2020 Oct 12.
