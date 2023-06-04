@@ -1660,7 +1660,7 @@ This tutorial can be used to explore how changing $(p,q)$ influences the transit
 
 ## 6. References
 
-- [1]: (Source Paper) Grover A, Leskovec J. node2vec: Scalable feature learning for networks. InProceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining 2016 Aug 13 (pp. 855-864).
+[1]: (Source Paper) Grover A, Leskovec J. node2vec: Scalable feature learning for networks. InProceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining 2016 Aug 13 (pp. 855-864).
 
 - [2]: `https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc`
 
