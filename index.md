@@ -25,7 +25,7 @@
 
 ### Academic and Research-driven Work
 
-- [Introduction and novel applications of node2vec](http://example.com/)
+[Introduction and novel applications of node2vec](http://example.com/)
 
 ---
 
